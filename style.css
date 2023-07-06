@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:ital@1&family=Roboto:wght@100&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.button {
+  width: 55px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px soild black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+  
+}
+
+}
+
+.row input {
+  font-size: 25px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px soild black;
+  border-radius: 5px;
+
+}
+.C
+{
+   width: 250px;
+    padding: 15px;
+    border: 2px soild black;
+    border-radius: 9px;
+}
