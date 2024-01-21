@@ -1,9 +1,11 @@
 .text-center {
   text-align: center;
+  margin-top: 100px;
+  color: rgb(250, 206, 49);
 }
 
 .bg-red {
-  background: red;
+  background: red
 }
 
 .mx-auto {
