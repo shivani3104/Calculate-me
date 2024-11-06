@@ -1,5 +1,4 @@
-# Calculate Me
-
+## Calculate Me
 Welcome to **Calculate Me!** This project is a simple calculator web app built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations with a user-friendly interface.
 
 ## Overview
