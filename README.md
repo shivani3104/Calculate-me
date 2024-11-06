@@ -14,15 +14,14 @@ Welcome to **Calculate Me!** This project is a simple calculator web app built u
 ## Installation
 To run this project locally:
 1. Clone this repository:
-   ```bash
-  git clone https://github.com/shivani3104/Calculate-me.git
+   ```bash git clone https://github.com/shivani3104/Calculate-me.git
   
 ## Usage
 Click the buttons on the calculator to enter numbers and operations.
 Press = to get the result.
 Use the C button to clear the current input.
 
-#Screenshot
+## Screenshot
 ![Calculator Screenshot](https://github.com/shivani3104/Calculate-me/blob/main/Calculator.png)
 
 ## Code Overview
